@@ -13,7 +13,7 @@ curl -X 'POST' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
-  "message": "Привет, расскажи мне про кредиты?",
+  "message": "Hi, tell me about insurance?",
   "user_id": "1234"
 }'
 ```
